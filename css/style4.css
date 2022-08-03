@@ -1,0 +1,106 @@
+:root {
+    --color-primary:  #ed0025;
+    --color-secondary:#1565c8;
+    --color-darktext: #1c1c28;
+    --color-graytext: #555770;
+    --color-graylight:#8f90a6;
+}
+
+.slider-title {
+    font-size: 54px;
+    font-weight: bold;
+
+}
+p {
+    width: 417px;
+    height:270px;
+}
+.gallery_p {
+    height:20px;
+    width: 100%;
+}
+
+/*NAVIGAION BAR*/
+
+.navbar {
+    background-color: white;
+} 
+
+.img-logo {
+   display: flex;
+    width: 95px;
+    height: 35px;  
+    
+}
+
+.bars {
+    width: 40px;
+    height: 40px;
+    padding-right: 19px;
+}
+
+.nav__content {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    align-items: center;
+   
+}
+
+.nav__bar {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+   flex-direction: row;
+   justify-content: space-between;
+    width: 100%;
+}
+
+.menu-ul {
+    display: flex;
+    flex-direction: row;
+}
+.menuu-li {
+ width: 200px;
+}
+/*home page 1,  2*/
+
+
+.homep_p {
+    height:250px;
+    
+}
+.pizza {
+  margin-top:19px;
+  width: 463px;
+  height: 432px;
+  
+}
+.food {
+    width:417px;
+    height: 270px;
+}
+.text__colum {
+    margin: 19px auto;
+}
+
+.btn__menu {
+   
+    margin-top: 40px;
+
+}
+
+.home_page1 {
+    margin:176px 165px;
+
+}
+
+.motor {
+    width:300px;
+    height: 300px;
+}
+
+.home-page2 {
+    margin:286px 265px;
+   
+}
